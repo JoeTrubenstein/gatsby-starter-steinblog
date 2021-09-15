@@ -3,21 +3,21 @@ import { StaticImage } from "gatsby-plugin-image"
 
 
 
-function Jihanki() {
+function Avatar() {
  return (
    <StaticImage
-     src="./jihanki.jpeg"
+     src="./coffee.jpeg"
      alt="A jsx code snippet"
      placeholder="blurred"
      style={{
-      position: 'absolute',
       height: '100%',
       width: '100%',
       inset: 0,
       objectFit: 'cover',
+      borderRadius:'50%'
     }}
    />
  )
 }
 
-export default Jihanki
+export default Avatar
