@@ -37,7 +37,7 @@ const Header = () => {
     <div>
       {/*Header*/}
       <div
-        className="w-full m-0 p-0 bg-cover bg-bottom"
+        className="w-full m-0 p-0 bg-cover bg-bottom mb-10"
         style={{
           backgroundImage: 'url("https://source.unsplash.com/random")',
           height: "60vh",

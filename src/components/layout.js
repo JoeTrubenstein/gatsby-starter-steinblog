@@ -1,17 +1,13 @@
-import * as React from "react"
+import * as React from "react";
+import Footer from "../components/footer";
 
 const Layout = ({ children }) => {
-
   return (
-    <div className="global-wrapper" data-is-root-path={"isRootPath"}>
+    <div>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
-      </footer>
+      <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
