@@ -6,32 +6,8 @@
  */
 
 import * as React from "react";
-import { useStaticQuery, graphql } from "gatsby";
-import Img from "gatsby-image";
 
 const Header = () => {
-  const data = useStaticQuery(graphql`
-    query BioQuery {
-      file(relativePath: { eq: "stache-avatar.jpeg" }) {
-        childImageSharp {
-          fluid(maxWidth: 500, maxHeight: 500, fit: INSIDE) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author {
-            name
-            summary
-          }
-          social {
-            twitter
-          }
-        }
-      }
-    }
-  `);
 
   return (
     <div>
@@ -73,7 +49,7 @@ const Header = () => {
                   <li className="mr-2">
                     <a
                       className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-2"
-                      href="#"
+                      href="../about"
                     >
                       About
                     </a>
@@ -81,7 +57,7 @@ const Header = () => {
                   <li className="mr-2">
                     <a
                       className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-2"
-                      href="#"
+                      href="../contact"
                     >
                       Contact
                     </a>

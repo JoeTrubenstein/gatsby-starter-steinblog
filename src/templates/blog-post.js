@@ -13,6 +13,10 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Seo
+        title={post.frontmatter.title}
+        description={post.frontmatter.description || post.excerpt}
+      />
       <div>
         <PostNav />
         {/*Title*/}
@@ -41,7 +45,6 @@ const BlogPostTemplate = ({ data, location }) => {
               className="prose bg-white w-full p-8 md:p-24 text-xl md:text-2xl text-gray-800 leading-normal"
               style={{ fontFamily: "Georgia,serif" }}
             ></div>
-
             <PostAuthor />
           </div>
         </div>
@@ -50,58 +53,60 @@ const BlogPostTemplate = ({ data, location }) => {
           <div className="flex flex-wrap -m-4">
             {previous && (
               <div key={previous.fields.slug} className="p-4 md:w-1/2">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                  <img
-                    className="h-48 w-full object-cover object-center"
-                    src={previous.frontmatter.image}
-                    alt="blog"
-                  />
-                  <div className="p-6">
-                    <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
-                      {previous.frontmatter.date}
-                    </h2>
-                    <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                      {" "}
-                      <Link to={previous.fields.slug} itemProp="url">
+                <Link to={previous.fields.slug} itemProp="url">
+                  <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                    <img
+                      className="h-48 w-full object-cover object-center"
+                      src={previous.frontmatter.image}
+                      alt="blog"
+                    />
+                    <div className="p-6">
+                      <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
+                        {previous.frontmatter.date}
+                      </h2>
+                      <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
+                        {" "}
                         <span itemProp="headline">
                           {previous.frontmatter.title}
                         </span>
-                      </Link>
-                    </h1>
-                    <p className="leading-relaxed mb-3">
-                      {previous.frontmatter.description ||
-                        previous.frontmatter.excerpt}
-                    </p>
+                      </h1>
+                      <p className="leading-relaxed mb-3">
+                        {previous.frontmatter.description ||
+                          previous.frontmatter.excerpt}
+                      </p>
+                    </div>
                   </div>
-                </div>
+                </Link>
               </div>
             )}
 
             {next && (
               <div key={next.fields.slug} className="p-4 md:w-1/2">
-                <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-                  <img
-                    className="h-48 w-full object-cover object-center"
-                    src={next.frontmatter.image}
-                    alt="blog"
-                  />
-                  <div className="p-6">
-                    <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
-                      {next.frontmatter.date}
-                    </h2>
-                    <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                      {" "}
-                      <Link to={next.fields.slug} itemProp="url">
+                <Link to={next.fields.slug} itemProp="url">
+                  <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+                    <img
+                      className="h-48 w-full object-cover object-center"
+                      src={next.frontmatter.image}
+                      alt="blog"
+                    />
+                    <div className="p-6">
+                      <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">
+                        {next.frontmatter.date}
+                      </h2>
+                      <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
+                        {" "}
                         <span itemProp="headline">
                           {next.frontmatter.title}
                         </span>
-                      </Link>
-                    </h1>
-                    <p className="leading-relaxed mb-3">
-                      {next.frontmatter.description || next.frontmatter.excerpt}
-                    </p>
+                      </h1>
+
+                      <p className="leading-relaxed mb-3">
+                        {next.frontmatter.description ||
+                          next.frontmatter.excerpt}
+                      </p>
+                    </div>
                   </div>
-                </div>
+                </Link>
               </div>
             )}
           </div>

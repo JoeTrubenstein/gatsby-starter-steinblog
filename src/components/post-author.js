@@ -10,15 +10,15 @@ const PostAuthor = () => {
       />
       <div className="flex-1">
         <p className="text-base font-bold text-base md:text-xl leading-none">
-          Ghostwind CSS
+          Joe Trubenstein
         </p>
         <p className="text-gray-600 text-xs md:text-base">
-          Tailwind CSS version of Ghost's Casper theme by{" "}
+          Is coding stuff{" "}@
           <a
             className="text-gray-800 hover:text-green-500 no-underline border-b-2 border-green-500"
-            href="https://www.tailwindtoolbox.com"
+            href="https://trubenstein.tech"
           >
-            TailwindToolbox.com
+            trubenstein.tech
           </a>
         </p>
       </div>

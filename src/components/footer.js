@@ -26,7 +26,7 @@ const Footer = () => {
               <li>
                 <a
                   className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-3"
-                  href="#"
+                  href="../about"
                 >
                   About
                 </a>
@@ -34,7 +34,7 @@ const Footer = () => {
               <li>
                 <a
                   className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-3"
-                  href="#"
+                  href="../contact"
                 >
                   Contact
                 </a>
