@@ -1,32 +1,26 @@
-/**
- * Bio component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-
 import * as React from "react";
+import jido from "../images/jihanki.jpeg";
 
 const Header = () => {
-
   return (
     <div>
       {/*Header*/}
       <div
         className="w-full m-0 p-0 bg-cover bg-bottom mb-10"
         style={{
-          backgroundImage: 'url("https://source.unsplash.com/random")',
+          backgroundImage: `url("${jido}")`,
           height: "60vh",
           maxHeight: 460,
+          backgroundPosition: "bottom left",
         }}
       >
-        <div className="container max-w-4xl mx-auto pt-16 md:pt-32 text-center break-normal">
+        <div className="container max-w-4xl mx-auto pt-36 md:pt-32 text-center break-normal">
           {/*Title*/}
           <p className="text-white font-extrabold text-3xl md:text-5xl">
-            👻 Joe Trubenstein
+            Two Coin Brew
           </p>
-          <p className="text-xl md:text-2xl text-gray-500">
-            Welcome to my Blog
+          <p className="text-xl md:text-2xl p-4 text-gray-200">
+           a field guide to Japanese vending machine coffee ☕
           </p>
         </div>
       </div>
@@ -34,10 +28,10 @@ const Header = () => {
       <div className="container px-4 md:px-0 max-w-6xl mx-auto -mt-32">
         <div className="mx-0 sm:mx-6">
           {/*Nav*/}
-          <nav className="mt-0 w-full">
+          <nav className=" mt-0 w-full">
             <div className="container mx-auto flex items-center">
               <div className="flex w-1/2 pl-4 text-sm">
-                <ul className="list-reset flex justify-between flex-1 md:flex-none items-center">
+                <ul className="text-lg list-reset flex justify-between flex-1 md:flex-none items-center">
                   <li className="mr-2">
                     <a
                       className="inline-block py-2 px-2 text-white no-underline hover:underline"
@@ -48,7 +42,7 @@ const Header = () => {
                   </li>
                   <li className="mr-2">
                     <a
-                      className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                      className="inline-block text-gray-300 no-underline hover:text-gray-200 hover:underline py-2 px-2"
                       href="../about"
                     >
                       About
@@ -56,7 +50,7 @@ const Header = () => {
                   </li>
                   <li className="mr-2">
                     <a
-                      className="inline-block text-gray-400 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                      className="inline-block text-gray-300 no-underline hover:text-gray-200 hover:underline py-2 px-2"
                       href="../contact"
                     >
                       Contact
@@ -65,8 +59,9 @@ const Header = () => {
                 </ul>
               </div>
               <div className="flex w-1/2 justify-end content-center">
-                <a
-                  className="inline-block text-gray-500 no-underline hover:text-white hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 avatar"
+                {/* social svgs */}
+                {/* <a
+                  className="inline-block text-gray-300 no-underline hover:text-white hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 avatar"
                   data-tippy-content="@twitter_handle"
                   href="https://twitter.com/intent/tweet?url=#"
                 >
@@ -79,7 +74,7 @@ const Header = () => {
                   </svg>
                 </a>
                 <a
-                  className="inline-block text-gray-500 no-underline hover:text-white hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 avatar"
+                  className="inline-block text-gray-300 no-underline hover:text-white hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 avatar"
                   data-tippy-content="#facebook_id"
                   href="https://www.facebook.com/sharer/sharer.php?u=#"
                 >
@@ -90,7 +85,7 @@ const Header = () => {
                   >
                     <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z" />
                   </svg>
-                </a>
+                </a> */}
               </div>
             </div>
           </nav>

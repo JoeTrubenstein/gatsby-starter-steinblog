@@ -4,7 +4,6 @@ import { Link } from "gatsby";
 const PostCards = ({ posts }) => {
   return (
     <section className="text-gray-600 body-font">
-      {console.log(posts)}
       <div className="container px-5 pt-20 mx-auto">
         <div className="flex flex-wrap -m-4">
           {posts.map((post) => {

@@ -1,11 +1,11 @@
 import * as React from "react";
 import { graphql } from "gatsby";
 
-import Header from "../components/header";
 import Layout from "../components/layout";
 import PostCards from "../components/post-cards";
 import Pagination from "../components/pagination";
 import Seo from "../components/seo";
+import Header from "../components/header";
 
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`;

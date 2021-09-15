@@ -1,6 +1,7 @@
 ---
-title: My Second Post!
+title: Georgia
 date: "2015-05-06T23:46:37.121Z"
+description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus."
 image: "https://source.unsplash.com/random"
 ---
 

@@ -9,9 +9,9 @@ const PostNav = () => {
             className="flex text-white text-base no-underline hover:text-white hover:no-underline"
             href="../"
           >
-            👻{" "}
+            ☕{" "}
             <span className="hidden w-0 md:w-auto md:block pl-1">
-              Joe Trubenstein
+              Two Coin Brew
             </span>
           </a>
         </div>

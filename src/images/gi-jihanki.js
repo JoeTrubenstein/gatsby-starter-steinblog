@@ -3,10 +3,10 @@ import { StaticImage } from "gatsby-plugin-image"
 
 
 
-function Stache() {
+function Jihanki() {
  return (
    <StaticImage
-     src="./stache-avatar.jpeg"
+     src="./jihanki.jpeg"
      alt="A jsx code snippet"
      placeholder="blurred"
      style={{
@@ -20,4 +20,4 @@ function Stache() {
  )
 }
 
-export default Stache
+export default Jihanki

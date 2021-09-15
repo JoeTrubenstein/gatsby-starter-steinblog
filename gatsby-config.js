@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Joe Trubenstein`,
+    title: `Two Coin Brew`,
     author: {
       name: `Joe Trubenstein`,
       summary: `who lives in Japan, creating code and content`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `a field guide to Japanese Vending Machine Coffee`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: ``,

@@ -10,7 +10,7 @@ const Footer = () => {
               className="text-gray-900 no-underline hover:text-gray-900 hover:no-underline"
               href="../"
             >
-              👻 <span className="text-base text-gray-200">Joe Trubenstein</span>
+              ☕ <span className="text-base text-gray-200">Two Coin Brew</span>
             </a>
           </div>
           <div className="flex w-full pt-2 content-center justify-between md:w-1/2 md:justify-end">
