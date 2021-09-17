@@ -5,7 +5,7 @@ module.exports = {
       name: `Joe Trubenstein`,
       summary: `who lives in Japan, creating code and content`,
     },
-    description: `a field guide to Japanese Vending Machine Coffee`,
+    description: `a field guide to Japanese Vending Machines`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: ``,

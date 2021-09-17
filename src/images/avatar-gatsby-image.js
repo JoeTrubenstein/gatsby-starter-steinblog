@@ -6,7 +6,7 @@ import { StaticImage } from "gatsby-plugin-image"
 function Avatar() {
  return (
    <StaticImage
-     src="./coffee.jpeg"
+     src="./stache-avatar.jpeg"
      alt="A jsx code snippet"
      placeholder="blurred"
      style={{

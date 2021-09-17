@@ -29,10 +29,7 @@ const NotFoundPage = ({ data, location }) => {
                     Joe Trubenstein
                   </h2>
                   <div className="w-12 h-1 bg-green-500 rounded mt-2 mb-4" />
-                  <p className="text-base">
-                    Raclette knausgaard hella meggs normcore williamsburg enamel
-                    pin sartorial venmo tbh hot chicken gentrify portland.
-                  </p>
+                  <p className="text-base">Site Author and Developer</p>
                 </div>
               </div>
 
@@ -42,15 +39,15 @@ const NotFoundPage = ({ data, location }) => {
                 </h2>
                 <br />
                 <p className="leading-relaxed text-lg mb-4">
-                  Meggings portland fingerstache lyft, post-ironic fixie man bun
-                  banh mi umami everyday carry hexagon locavore direct trade art
-                  party. Locavore small batch listicle gastropub farm-to-table
-                  lumbersexual salvia messenger bag. Coloring book flannel
-                  truffaut craft beer drinking vinegar sartorial, disrupt
-                  fashion axe normcore meh butcher. Portland 90's scenester
-                  vexillologist forage post-ironic asymmetrical, chartreuse
-                  disrupt butcher paleo intelligentsia pabst before they sold
-                  out four loko. 3 wolf moon brooklyn.
+                  Despite regularly suffering from panic attacks and living with
+                  a remarkably weak stomach, I find myself consuming this
+                  caffeinated, acidic poison every day. I drink it almost
+                  exclusively black as well. Partly because I want to cut down
+                  on sugar, partly because I hate myself. Two Coin Brew is a
+                  kind of diary - short pieces of nonfiction with a can of
+                  coffee at the center of every tale. Sometimes humorous,
+                  sometimes heartbreaking, it's an honor and a pleasure to share
+                  my blog with you.
                 </p>
               </div>
             </div>

@@ -34,7 +34,7 @@ const Header = () => {
                 <ul className="text-lg list-reset flex justify-between flex-1 md:flex-none items-center">
                   <li className="mr-2">
                     <a
-                      className="inline-block py-2 px-2 text-white no-underline hover:underline"
+                      className="inline-block py-2 px-2 text-white no-underline "
                       href="../#"
                     >
                       Home
@@ -42,7 +42,7 @@ const Header = () => {
                   </li>
                   <li className="mr-2">
                     <a
-                      className="inline-block text-gray-300 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                      className="inline-block text-gray-300 no-underline hover:text-gray-200  py-2 px-2"
                       href="../about"
                     >
                       About
@@ -50,7 +50,7 @@ const Header = () => {
                   </li>
                   <li className="mr-2">
                     <a
-                      className="inline-block text-gray-300 no-underline hover:text-gray-200 hover:underline py-2 px-2"
+                      className="inline-block text-gray-300 no-underline hover:text-gray-200  py-2 px-2"
                       href="../contact"
                     >
                       Contact
