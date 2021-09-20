@@ -46,7 +46,7 @@ I still don't know how long to wait to text back. I also don't know why the trai
 
 I'm a little annoyed that my coffee break has been cancelled, but thrilled to have a little bit of buffer time. I go to line up at edge of the platform with everyone else in an orderly fashion, as one does in Japan, when my concentration is broken again.
 
-There's a poster, with a diagram clear as day - detailing how two tracks diverge at this station, only to meet again at the last stop. In other words, both this train and the next train are bound for the same last stop. But this train will be taking a path that does not include my destination. In fact, it goes in the opposite direction, and taking this train would be mistake that would cost about 40 minutes to correct.
+There's a poster, with a diagram clear as day - detailing how two tracks diverge at this station, only to meet again at the last stop. In other words, both this train and the next train are bound for the same last stop. But this train will be taking a path that does not include my destination. In fact, it goes in the opposite direction, and taking this train would be a mistake that would cost about 40 minutes to correct.
 
 How many times a day do we brush with disaster and not know it? From slight inconveniences, to death, and back to dismemberment. My friend keeps a journal for the sole purpose of answering that question. He calls it "The Lucky Mark Book." He says that writing them all down is a great exercise in expressing gratitude.
 
