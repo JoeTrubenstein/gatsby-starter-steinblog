@@ -1,7 +1,7 @@
 ---
 title: Georgia Seven Mountain
 date: "2021-09-13"
-description: "See what can happen even when you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid wicker man."
+description: "See what can happen even when you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid giant wicker man."
 image: "https://res.cloudinary.com/indridcold/image/upload/v1632151555/mfk1ofjaq3mmnaxhyfsu.jpg"
 ---
 

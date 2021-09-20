@@ -1,7 +1,7 @@
 ---
 title: Tully's Barista Black
 date: "2021-09-20"
-description: "I can't remember the last times things were going this well. I also can't remember the last time I felt this frightened. I'm finally far enough from the bottom where I think a fall to it again might actually kill me."
+description: "I can't remember the last time things were going this well. I also can't remember the last time I felt this frightened. I'm finally far enough from the bottom where I think a fall to it again might actually kill me."
 image: "https://res.cloudinary.com/indridcold/image/upload/v1632151552/zs35er5surjjsuo38dyw.jpg"
 ---
 
