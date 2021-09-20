@@ -9,7 +9,7 @@ const NotFoundPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="About" />
+      <Seo title="Contact" />
       <PostNav />
       <section className="text-gray-600 body-font relative">
         <div className="container px-5 py-24 mx-auto">
