@@ -13,7 +13,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <Seo title="Two Coin Brew" />
       <Header />
       <PostCards posts={posts} />
       <Pagination currentPage={currentPage} numPages={numPages} />
