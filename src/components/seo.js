@@ -51,6 +51,10 @@ const Seo = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: "https://res.cloudinary.com/indridcold/image/upload/v1632152443/fnfx2a6nkhqtdlmy2jcj.png",
+        },
+        {
           property: `og:type`,
           content: `website`,
         },

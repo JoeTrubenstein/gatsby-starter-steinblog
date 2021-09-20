@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives in Japan, creating code and content`,
     },
     description: `a field guide to Japanese Vending Machines`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://twocoinbrew.com`,
     social: {
       twitter: ``,
     },
@@ -112,13 +112,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Two Coin Brew`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/hot-beverage_2615.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

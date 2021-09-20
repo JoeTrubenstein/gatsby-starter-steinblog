@@ -1,8 +1,8 @@
 ---
 title: Tully's Kilimanjaro Black
 date: "2021-09-15"
-description: "The subtle blue gradients beneath the golden typography stirs within me a strange sense comfort and familiarity. It's MegaMan, it's Sonic, it's a holographic Pokemon card. With each sip, I can almost hear it saying, 'Don't worry, everything is going to be ok'."
-image: "https://source.unsplash.com/random"
+description: "There are already several albatrosses that hang from my neck. They are heavy, they are many, and I must carry them with me each day. The thought of adding one for being late to work in Japan chills me to my very core."
+image: "https://res.cloudinary.com/indridcold/image/upload/v1632151561/bk1k3cttzcxlfja67iyc.jpg"
 ---
 
 ## I'm halfway through a 3 hour commute and I've budgeted exactly zero minutes for errors.
@@ -23,13 +23,37 @@ I approach the blinking beverage monolith, and my eyes scan the display window. 
 | 容量     | 希望小売価格 | カフェイン |
 | -------- | ------------ | ---------- |
 | Capacity | MSRP         | Caffeine   |
-| 285m     | 130 円       | 62mg       |
+| 285ml     | 130 円       | 62mg       |
 
-The subtle blue gradients beneath the golden typography stirs within me a strange sense comfort and familiarity. It's MegaMan, it's Sonic, it's a holographic Pokemon card.
+The subtle blue gradients beneath the golden typography stirs within me a strange sense comfort and familiarity. It's MegaMan, it's Sonic, it's a holographic Pokemon card. For a fraction of a second, I can almost remember what it felt like. The ability to find enjoyment in something like that. Is this what men my age are holding on to?  When they just say "to hell with it all", and start buying funko pops?
 
-I can hardly contain my excitement as I make my selection and retrieve my cold, metallic treasure from the foot of the machine. I've delayed gratification long enough this morning. Twisting the aluminum cap to a satisfying crack of the seal, the train sign catches my eye.
+I make my selection and retrieve my cold, metallic treasure from the foot of the machine. I've delayed gratification long enough this morning. I twist the aluminum cap to a satisfying crack of the seal.
 
-There, in the LED screen, I see a train bound for my target station about ten minutes earlier than I had anticipated. What a treat. I feel as though the universe is reaching out to give me a very cool handshake. Like the kind with a little snap at the end, or a fist bump where both parties apply the perfect amount of force.
+Men my age. I know what men my age are concerned with. I suppose I'm not much of an exception. There's a much fatter, balder version of myself holding a gun to my head, mouthing, "tick, tick, tick..." I tell him to go away. I tell him that I'm not afraid of him. This is the year that I'm going to get in shape. This is the year that I'm going to stop worrying about the side effects and start the Propecia. He laughs so hard he nearly drops the pistol. He's heard that one before.
 
 
+At least the coffee is pleasant. That's the thing about these black, vending machine coffees. They're somehow pleasant in the absence of a pleasant taste. I'm not entirely convinced that people are being honest when they say otherwise.
 
+Even more so with alcohol. I've consumed probably half of the world's countless variations in which alcohol can be consumed. I've never once done it for the subtle notes of burnt cream with a warm finish. Imagine being psyop'ed so hard that you honestly believe calling it "craft" somehow means people aren't going drink it and drive into a school bus. I'm sorry your honor, it was hopped for 90 minutes in a small batches.
+
+The first time I ever drank beer I was shocked at how bad it tasted. I had already been smoking cigarettes for probably a year already at that point, I figured it would be a pretty simple addition to my coolness repertoire. Boy, was I mistaken. I actually tried mixing it with coca cola in hopes I'd be able to get it down in front of the basement full of partying, yet judgmental eyes. I didn't account for the fact that it would drastically change the color of what was in my see-through cup. No one called me out, but I'm sure they knew.
+
+Coffee is different. It's ok to add stuff to coffee to make it less gross. I've just reached a point where I'm choosing not to. Because of things men my age are concerned with.
+
+Men my age are concerned with rising blood sugar levels, increasing BMIs. We're concerned with the way the world perceives us when we're single again at 31. How many more summers do we have, to get ready to take our shirts off at the beach? How many more relationships can we let burn out before we're the creepy uncle at thanksgiving?
+
+I still don't know how long to wait to text back. I also don't know the train sign says it's coming 10 minutes ahead of when I anticipated.
+
+I'm a little annoyed that my coffee break has been cancelled, but thrilled to have a little bit of buffer time. I go to line up at edge of the platform with everyone else in an orderly fashion, as one does in Japan, when my concentration is broken again.
+
+There's a poster, with a diagram clear as day - detailing how two tracks diverge at this station, only to meet again at the last stop. In other words, both this train and the next train are bound for the same last stop. But this train will be taking a path that does not include in my destination. In fact, it goes in the opposite direction, and taking this train would be mistake that would cost about 40 minutes to correct.
+
+How many times a day do we brush with disaster and not know it? From slight inconveniences, to death, and back to dismemberment. My friend keeps a journal for the sole purpose of answering that question. He calls it "The Lucky Mark Book." He says that writing them all down is a great exercise in expressing gratitude.
+
+I step back from the train, my hand now shaking. Partly from the Kilimanjaro black, partly from imagining the timeline in which I got on that train. The apology phone calls, the disappointed faces. The lack of trust and confidence in me for the rest of our working relationship.
+
+I'm still only about halfway through this commute and I'm back to having zero minutes budgeted for errors.
+
+I get a text back. She asks how my morning is going. I think it's still a bit too early to be myself.
+
+## Tully's Kilimajaro Black -  7/10 
