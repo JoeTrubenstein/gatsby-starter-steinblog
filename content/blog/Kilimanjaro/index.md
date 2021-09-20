@@ -42,18 +42,18 @@ Coffee is different. It's ok to add stuff to coffee to make it less gross. I've 
 
 Men my age are concerned with rising blood sugar levels, increasing BMIs. We're concerned with the way the world perceives us when we're single again at 31. How many more summers do we have, to get ready to take our shirts off at the beach? How many more relationships can we let burn out before we're the creepy uncle at thanksgiving?
 
-I still don't know how long to wait to text back. I also don't know the train sign says it's coming 10 minutes ahead of when I anticipated.
+I still don't know how long to wait to text back. I also don't know why the train sign says it's coming 10 minutes ahead of when I anticipated.
 
 I'm a little annoyed that my coffee break has been cancelled, but thrilled to have a little bit of buffer time. I go to line up at edge of the platform with everyone else in an orderly fashion, as one does in Japan, when my concentration is broken again.
 
-There's a poster, with a diagram clear as day - detailing how two tracks diverge at this station, only to meet again at the last stop. In other words, both this train and the next train are bound for the same last stop. But this train will be taking a path that does not include in my destination. In fact, it goes in the opposite direction, and taking this train would be mistake that would cost about 40 minutes to correct.
+There's a poster, with a diagram clear as day - detailing how two tracks diverge at this station, only to meet again at the last stop. In other words, both this train and the next train are bound for the same last stop. But this train will be taking a path that does not include my destination. In fact, it goes in the opposite direction, and taking this train would be mistake that would cost about 40 minutes to correct.
 
 How many times a day do we brush with disaster and not know it? From slight inconveniences, to death, and back to dismemberment. My friend keeps a journal for the sole purpose of answering that question. He calls it "The Lucky Mark Book." He says that writing them all down is a great exercise in expressing gratitude.
 
-I step back from the train, my hand now shaking. Partly from the Kilimanjaro black, partly from imagining the timeline in which I got on that train. The apology phone calls, the disappointed faces. The lack of trust and confidence in me for the rest of our working relationship.
+I step back from the train, my hand now shaking. Partly from the Kilimanjaro Black, partly from imagining the timeline in which I got on that train. The apology phone calls, the disappointed faces. The lack of trust and confidence in me for the rest of our working relationship.
 
 I'm still only about halfway through this commute and I'm back to having zero minutes budgeted for errors.
 
 I get a text back. She asks how my morning is going. I think it's still a bit too early to be myself.
 
-## Tully's Kilimajaro Black -  7/10 
+## Tully's Kilimajaro Black -  7/10
