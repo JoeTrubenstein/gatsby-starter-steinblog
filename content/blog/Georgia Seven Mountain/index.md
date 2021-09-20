@@ -1,7 +1,7 @@
 ---
 title: Georgia Seven Mountain
 date: "2021-09-13"
-description: "See what can happen even you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid wicker man."
+description: "See what can happen even when you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid wicker man."
 image: "https://res.cloudinary.com/indridcold/image/upload/v1632151555/mfk1ofjaq3mmnaxhyfsu.jpg"
 ---
 
@@ -38,7 +38,7 @@ Well at least I don't think I'm a giant glass of orange juice. That's a kind of 
  
 Straw man. Wicker Man.
 
-Imagine that. Getting bamboozled into being burned alive in the wicker man. He thought he was there to save that little girl too. See what can happen even you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid wicker man.
+Imagine that. Getting bamboozled into being burned alive in the wicker man. He thought he was there to save that little girl too. See what can happen even when you're trying your hardest to be the good guy? You get the bees, and then you get burned to death in the stupid wicker man.
 
 I've heard people say that sometimes, the best thing that can happen is <em>not</em> getting the job. Obviously the implication there is that getting the job would lead to something bad. Maybe, through some weird butterfly chain of events, getting this job would end with me being burned alive in a straw effigy. 
 
